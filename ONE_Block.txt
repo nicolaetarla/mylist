@@ -15,5 +15,5 @@
 !
 !
 !
-!||gapcanada.ca^
-!||oldnavy.gapcanada.ca^
+||gapcanada.ca^
+||oldnavy.gapcanada.ca^
