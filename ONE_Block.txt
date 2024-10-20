@@ -1,0 +1,19 @@
+!
+! Title: ONE Block
+! Description: List of blocked sites
+! Version: 0.0.0.1
+! Homepage: 
+! Last modified: 2024-10-20T12:09:08.790Z
+!
+! Compiled by @one
+!
+! This section contains the list of shopping sites to block
+!
+! Good: ||doubleclick.net^$third-party
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
+!
+!
+!
+||gapcanada.ca^
+||oldnavy.gapcanada.ca^
