@@ -17,4 +17,4 @@
 !
 ||gapcanada.ca^
 ||oldnavy.gapcanada.ca^
-shein.com
+||shein.com
